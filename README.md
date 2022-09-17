@@ -1,6 +1,10 @@
-# 💫 About Me:
+<h1 align="center"> Hi 👋🏻, I'm Md. Redwan Hossain </br>
+</h1>
+<p align="center">🔭 I’m currently doing problem-solving and competitive programming.</p>
+<p align="center">🌱 I’m currently learning data structures and algorithms.</p>
+<p align="center">🙋 I’m looking to collaborate on open-source projects.</p>
 
-🔭 I’m currently doing problem-solving and competitive programming.<br>🙋 I’m looking to collaborate on open-source projects.<br>🌱 I’m currently learning data structure and algorithms.<br>
+
 
 # 💻 Tech Stack:
 
