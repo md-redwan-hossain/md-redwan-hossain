@@ -32,13 +32,17 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 <br><br>
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=md-redwan-hossain&theme=default&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-redwan-hossain&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 
 <br>
+
+
+![LeetCode Stats](https://leetcode.card.workers.dev/md-redwan-hossain?theme=dark&font=baloo&extension=null)
+
 
 # 🌐 Socials:
 
