@@ -1,7 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Md. Redwan Hossain </br>
 </h1>
-<p align="center">🔭 I’m a backend focused full stack developer (React, NodeJS, NestJS, ExpressJS, Postgresql, MongoDB) .</p>
-<p align="center">🙋 I’m looking to collaborate on open-source projects.</p>
+<h4 align="center">A passionate backend developer by trade, well-versed in frontend technologies.</h4>
 
 
 
