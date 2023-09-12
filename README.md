@@ -33,7 +33,6 @@
 
 # 📊 Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=md-redwan-hossain&theme=default&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-redwan-hossain&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -47,7 +46,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-redwan-hossain) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/md-redwan-hossain) [![LeetCode user md-redwan-hossain](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmd-redwan-hossain&logo=leetcode&logoColor=yellow)](https://leetcode.com/md-redwan-hossain/)
 
-
-<!---
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
--->
