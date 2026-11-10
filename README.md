@@ -33,12 +33,12 @@
 # 📊 Stats:
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-redwan-hossain&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=md-redwan-hossain&langs_count=4&theme=light_github)
 
 <br>
 
 
 # 🌐 Handles:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-redwan-hossain) [![LeetCode user md-redwan-hossain](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmd-redwan-hossain&logo=leetcode&logoColor=yellow)](https://leetcode.com/md-redwan-hossain/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-redwan-hossain)
 
